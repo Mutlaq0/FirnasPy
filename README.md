@@ -1,7 +1,5 @@
 # FirnasPy
-
-## Google Colab
-[Click here to access the course notebook](https://colab.research.google.com/drive/1N2MH0C1lIohXCPvHP_eVIHIhv1_g49Un?usp=sharing)
+FirnasPy is a beginner-friendly Python course offered at FirnasTech, designed to introduce students to the fundamentals of programming, covering topics like variables, conditionals, loops, and functions through hands-on exercises and weekly workshops. 🚀
 
 ## Weekly Workshop
 Each week, a new Google Colab notebook will be added for hands-on practice.
