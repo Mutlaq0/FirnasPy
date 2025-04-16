@@ -1,4 +1,4 @@
-# 🐍 FirnasPy: Python Programming Course @ FirnasTech
+# 🐍 FirnasPy: Python Programming Course @FirnasTech
 
 Welcome to the official **FirnasTech Python Programming Course**!  
 This course is designed for beginners and early-stage coders to build a strong foundation in Python, problem-solving, and hands-on coding through weekly projects.
@@ -8,7 +8,7 @@ Whether you're a student, hobbyist, or future developer, this course will equip 
 ## 📚 Course Overview
 
 - 🔰 **Level:** Beginner to Intermediate  
-- 🕒 **Duration:** 6-8 Weeks  
+- 🕒 **Duration:**   ----
 - 💻 **Tools:** [Google Colab](https://colab.research.google.com/), Python 3  
 - 🎯 **Goal:** Learn Python fundamentals, write clean code, and solve algorithmic challenges
 
